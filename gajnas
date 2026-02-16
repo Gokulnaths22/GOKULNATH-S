@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+sum = a + b
+c = a * b
+d = a > b
+e = a < b
+f = (a>b) and (b>0)
+print("sum is",sum)
+print("product is",c)
+print("greater is",d)
+print("lesser is",e)
+print("logical is",f)
